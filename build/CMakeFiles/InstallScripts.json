@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/c/Users/i8kit/coding/geant4/hadrons/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

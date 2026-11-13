@@ -1,0 +1,4 @@
+/mnt/c/Users/i8kit/coding/geant4/hadrons/build/CMakeFiles/sim.dir
+/mnt/c/Users/i8kit/coding/geant4/hadrons/build/CMakeFiles/Hadrons.dir
+/mnt/c/Users/i8kit/coding/geant4/hadrons/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/i8kit/coding/geant4/hadrons/build/CMakeFiles/rebuild_cache.dir
